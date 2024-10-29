@@ -10,6 +10,7 @@ I’m currently deepening my knowledge in embedded systems and Linux development
 I'm open to collaborating with like-minded tech enthusiasts interested in embedded systems, software development, or web development. Let’s work together to create outstanding projects!
 
 ### 📫 Contact
+My Email:linyian0422@gmail.com
 Feel free to reach out to me here on GitHub or via email.
 
 ### ⚡ Fun Fact
