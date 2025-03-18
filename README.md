@@ -27,7 +27,7 @@ When I’m not coding or working on tech projects, you might find me on a badmin
 <p>
   <img height="48" alt="Ubuntu" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png">
   <img height="48" alt="ArchLinux" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/ArchLinux/ArchLinux.png">
-  <img height="48" alt="Windows" src="https://raw.githubusercontent.com//Shiroiame-Kusu/ProgrammingVTuberLogos-Windows/main/Windows/WindowsLogoShadow.png">
+  <img height="60" alt="Windows" src="https://raw.githubusercontent.com//Shiroiame-Kusu/ProgrammingVTuberLogos-Windows/main/Windows/WindowsLogoShadow.png">
 </p>
 
 ## 🔨 Tools
