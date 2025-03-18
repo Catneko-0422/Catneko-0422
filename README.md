@@ -60,9 +60,12 @@ When I’m not coding or working on tech projects, you might find me on a badmin
 
 <div align="center">
   <picture>
+    ![](https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/refs/heads/output/github-contribution-grid-snake.svg)
+    <!--
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-snake.svg" />
     <img alt="github-snake" src="(https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/refs/heads/output/github-contribution-grid-snake.svg)" /> 
+    -->
   </picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
