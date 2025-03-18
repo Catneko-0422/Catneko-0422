@@ -58,6 +58,10 @@ When I’m not coding or working on tech projects, you might find me on a badmin
     
 </div>
 
+![](https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/refs/heads/output/github-contribution-grid-snake.svg)
+
+
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-snake-dark.svg" />
