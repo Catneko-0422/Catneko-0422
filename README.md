@@ -44,7 +44,8 @@
 
 <div align="center">
   <picture>
-    ![](https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/refs/heads/output/github-contribution-grid-snake.svg)
+    ![](https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-contribution-grid-snake.svg)
+
     <!--
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Catneko-0422/Catneko-0422/output/github-snake.svg" />
