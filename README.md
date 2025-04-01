@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Catneko-0422&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Nekocat's GitHub Streak"/>
 </div>
 
-<img src="https://count.getloli.com/@:Catneko-0422" style="width: 200px; height: auto;">
+<img src="https://count.getloli.com/@:Catneko-0422" style="width: 1000px; height: auto;">
 
 ## 💻 OS
 <p>
