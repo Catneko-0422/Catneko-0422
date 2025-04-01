@@ -7,6 +7,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Catneko-0422&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Nekocat's GitHub Streak"/>
 </div>
 
+![:Catneko-0422](https://count.getloli.com/@:Catneko-0422)
+
 ## 💻 OS
 <p>
   <img height="48" alt="Ubuntu" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png">
