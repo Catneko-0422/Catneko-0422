@@ -11,32 +11,32 @@
 
 ## 💻 OS
 <p>
-  <img height="48" alt="Ubuntu" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png">
-  <img height="48" alt="ArchLinux" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/ArchLinux/ArchLinux.png">
-  <img height="48" alt="Windows" src="https://raw.githubusercontent.com//Shiroiame-Kusu/ProgrammingVTuberLogos-Windows/main/Windows/WindowsLogoShadow.png">
+  <img height="110" alt="Ubuntu" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png">
+  <img height="110" alt="ArchLinux" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/ArchLinux/ArchLinux.png">
+  <img height="170" alt="Windows" src="https://raw.githubusercontent.com//Shiroiame-Kusu/ProgrammingVTuberLogos-Windows/main/Windows/WindowsLogoShadow.png">
 </p>
 
 ## 🔨 Tools
 <p>
-  <img height="48" alt="Neovim" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Neovim/NeovimLogo.png">
-  <img height="48" alt="VSCode" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png">
-  <img height="48" alt="VisualStudio" src="https://vtuber-style-logos.vercel.app/DownloadedLogos/VisualStudio/VisualStudioLogo.png">
-  <img height="48" alt="Docker" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogo.png">
-  <img height="48" alt="Cloudflare" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Cloudflare/Cloudflare.png">
-  <img height="48" alt="Node.js" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Node.js/Node.js.png">
+  <img height="110" alt="Neovim" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Neovim/NeovimLogo.png">
+  <img height="110" alt="VSCode" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png">
+  <img height="110" alt="VisualStudio" src="https://vtuber-style-logos.vercel.app/DownloadedLogos/VisualStudio/VisualStudioLogo.png">
+  <img height="110" alt="Docker" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogo.png">
+  <img height="110" alt="Cloudflare" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Cloudflare/Cloudflare.png">
+  <img height="110" alt="Node.js" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Node.js/Node.js.png">
   
 </p>
 
 ## 📝 Tech Stack
 <p>
-  <img height="48" alt="C_All" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/C%2CC%23%2CC%2B%2B/All.png">
-  <img height="48" alt="Python" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Python/Python.png">
-  <img height="48" alt="HTML" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png">
-  <img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/TypeScript/TypeScript.png">
-  <img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Tailwindcss/Tailwindcss6.png">
-  <img height="48" alt="React" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/React/React.png">
-  <img height="48" alt="Next.js" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Next.js/Next.js.png">
-  <img height="48" alt="Lua" src="https://vtuber-style-logos.vercel.app/DownloadedLogos/Lua/Lua.png">
+  <img height="110" alt="C_All" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/C%2CC%23%2CC%2B%2B/All.png">
+  <img height="110" alt="Python" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Python/Python.png">
+  <img height="110" alt="HTML" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png">
+  <img height="110" alt="TypeScript" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/TypeScript/TypeScript.png">
+  <img height="110" alt="Tailwindcss" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Tailwindcss/Tailwindcss6.png">
+  <img height="110" alt="React" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/React/React.png">
+  <img height="110" alt="Next.js" src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Next.js/Next.js.png">
+  <img height="110" alt="Lua" src="https://vtuber-style-logos.vercel.app/DownloadedLogos/Lua/Lua.png">
 </p>
 
 
