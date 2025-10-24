@@ -1,22 +1,5 @@
 <h1 align="center">hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Nekocat.</h1>
 
-<div>
-  <center>
-    <a href="https://github.com/Catneko-0422" target="_blank"> 
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://x.com/nekocat0422" target="_blank"> 
-      <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://www.facebook.com/neko.cat.863674/" target="_blank"> 
-      <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://www.instagram.com/neko._cat422/" target="_blank">
-      <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
-    </a>
-  </center>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
