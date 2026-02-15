@@ -3,7 +3,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Catneko-0422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Nekocat's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Catneko-0422&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Nekocat's GitHub Streak"/>
 </div>
 
